@@ -5,7 +5,10 @@ description = ""
 authors = [
     {name = "Russell Groves", email = "russellgroves@gmail.com"},
 ]
-dependencies = []
+dependencies = [
+    "pulumi>=3.24.1",
+    "pulumi-github>=4.9.1",
+]
 requires-python = ">=3.9"
 license = {text = "GPLv3"}
 
