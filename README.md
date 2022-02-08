@@ -9,6 +9,7 @@ Steps I will need to reproduce if I want to use this repo with Gitpod.io
 - Configure Gitpod.io env var secret for `GITHUB_TOKEN`
 
 
+## Steps
 1) Install Pulumi
 ```
 curl -fsSL https://get.pulumi.com | sh
